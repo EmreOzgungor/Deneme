@@ -1,0 +1,8 @@
+﻿Derleme başladı...
+1>------ Derleme başladı: Proje: QUİZ UYGULAMASI, Yapılandırma: Release Any CPU ------
+1>QUİZ UYGULAMASI -> C:\Users\Emre\source\repos\Deneme\Deneme\bin\Release\netcoreapp3.1\QUİZ UYGULAMASI.dll
+2>------ Yayımlama başladı: ProjeQUİZ UYGULAMASI, Yapılandırma: Release Any CPU ------
+2>QUİZ UYGULAMASI -> C:\Users\Emre\source\repos\Deneme\Deneme\bin\Release\netcoreapp3.1\QUİZ UYGULAMASI.dll
+2>QUİZ UYGULAMASI -> C:\Users\Emre\Desktop\
+========== Oluşturma: 1 başarılı, 0 başarısız, 0 güncel, 0 atlandı ==========
+========== Yayım: 1 başarılı, 0 başarısız, 0 atlandı ==========
